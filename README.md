@@ -1,10 +1,10 @@
 <h1 align="center">Olá 👋, eu sou o David Venancio</h1>
 <h3 align="center">Desenvolvedor Mobile Pleno</h3>
 
-- 🔭 Atualmente, estou atuando como desenvolvedor mobile pleno, utilizando Ionic, Capacitor, Cordova e Angular.
-- ✅​ Concluí o curso Técnico em Informática para Internet no Instituto Federal do Tocantins, Campus Palmas.
-- 📚​​ Acadêmico do 6º período do curso superior de Sistemas para Internet no Instituto Federal do Tocantins, Campus Palmas.
-- 🌱 Estudando todo o ecossistema mobile 
+ 🔭 Atualmente, estou atuando como desenvolvedor mobile pleno, utilizando Ionic, Capacitor, Cordova e Angular.
+ ✅​ Concluí o curso Técnico em Informática para Internet no Instituto Federal do Tocantins, Campus Palmas.
+ 📚​​ Acadêmico do 6º período do curso superior de Sistemas para Internet no Instituto Federal do Tocantins, Campus Palmas.
+ 🌱 Estudando todo o ecossistema mobile. 
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
